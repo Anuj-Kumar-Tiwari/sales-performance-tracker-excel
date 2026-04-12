@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=📊+Sales+Performance+Tracker;Advanced+Excel+Portfolio+Project;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Sales+Performance+Tracker;Advanced+Excel+Portfolio+Project;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
+</p>
 
 <br/>
 
