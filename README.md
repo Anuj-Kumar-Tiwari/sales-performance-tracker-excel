@@ -59,10 +59,14 @@ Used `SUMIFS` and `COUNTIFS` to calculate:
 ---
 
 ## 📂 Project Structure
+
+``` 
 ├── 📊 sales_performance_tracker.xlsx  # Main Excel File (Dashboard + Analysis)
 ├── 📝 sales_performance_report.pdf    # Detailed Project Report
 ├── 📄 sales_raw_data.csv              # Original Dataset
 └── 📝 README.md                       # Project Documentation
+
+``` 
 
 ---
 
